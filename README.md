@@ -1,54 +1,60 @@
 # Hi, I'm Alexei Golubov 👋
 
-### Enterprise Software Developer | Backend Development | Currently Learning Java ☕
+### Enterprise Software Developer | Backend Development | Python • APIs • SQL
 
-I'm a software developer with **2+ years of commercial experience** in enterprise software development, business process automation, system integrations and performance optimization.
+I'm a software developer with 2+ years of commercial experience in enterprise software development, business process automation, system integrations, databases, and performance optimization.
 
 Currently, I develop and maintain large-scale ERP solutions, working with production systems serving hundreds of users and containing millions of business documents and master-data records.
 
-My current professional focus is expanding beyond the 1C ecosystem into **backend software engineering with Java**.
+My current professional focus is expanding my enterprise software engineering experience into modern backend development with Python.
 
-I'm actively studying Java and building a stronger foundation in backend development, application architecture, databases, APIs and modern server-side development.
+I have previous hands-on experience with Python, including backend integrations, desktop applications, and integration of Python components into web applications. I am now refreshing and deepening this experience with modern Python backend technologies and engineering practices.
 
 ---
 
-## ☕ Current Focus — Java Backend Development
+## 🐍 Current Focus — Python Backend Development
 
-I'm currently focusing on **Java** as my main direction for further backend development.
+I'm currently strengthening Python as my main language for broader backend software engineering.
 
-Areas I'm studying and improving:
+My focus includes:
 
-- Java Core
+- Modern Python
 - Object-Oriented Programming
-- Collections
-- Generics
-- Exceptions
-- Streams API
-- Multithreading and concurrency
-- JVM fundamentals
-- SQL and relational databases
+- Type hints
+- Iterators and generators
+- Decorators
+- Exception handling
+- AsyncIO and asynchronous programming
 - HTTP and REST APIs
+- FastAPI
+- PostgreSQL and relational databases
+- SQLAlchemy
+- Testing with pytest
+- Docker
 - Backend application architecture
+- Concurrent and background processing
 
-My goal is to combine my existing experience with **enterprise systems, databases, integrations and performance optimization** with the Java backend ecosystem.
+My goal is to combine my existing production experience with enterprise systems, APIs, databases, integrations, concurrency, and performance optimization with the modern Python backend ecosystem.
+
+---
 
 ## 🛠 Tech Stack
 
-### Currently Learning
-
-`Java` ☕
-
 ### Backend
 
-`PHP` `Python` `HTTP` `REST APIs` `JSON` `XML` `SQL`
+`Python` `HTTP` `REST APIs` `JSON` `XML` `SQL`
+
+### Currently Expanding
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `pytest` `Docker`
 
 ### Enterprise Development
 
 `1C:Enterprise` `1C EDT` `ERP Systems` `Business Process Automation`
 
-### Web
+### Previous Web Development
 
-`JavaScript` `HTML` `CSS` `Laravel` `WordPress`
+`PHP` `Laravel` `JavaScript` `HTML` `CSS` `WordPress`
 
 ### Development & Engineering
 
@@ -64,9 +70,7 @@ My goal is to combine my existing experience with **enterprise systems, database
 
 ### 📚 Digital Encyclopedia
 
-🌐 **https://sde.sticenter.ru**
-
-A custom web application developed **from scratch using vanilla PHP**.
+A custom web application developed from scratch using vanilla PHP.
 
 The application includes:
 
@@ -77,16 +81,15 @@ The application includes:
 - database integration;
 - PHP ↔ Python integration.
 
-One of the key features is a custom Python module called **Semantic Thesaurus**, integrated directly into the PHP web application.
+One of the key features is a custom Python module called Semantic Thesaurus, integrated directly into the PHP web application.
 
-**Technologies:**  
+Technologies:
+
 `PHP` `Python` `JavaScript` `HTML` `CSS` `SQL`
 
 ---
 
 ### 🔬 Central Scientific Laboratory
-
-🌐 **https://sticenter.ru**
 
 Production educational and scientific web platform based on WordPress.
 
@@ -98,38 +101,40 @@ My contributions include:
 - JavaScript ↔ Python backend integration;
 - integration of an educational quantum-number game.
 
-The game module was used by **100+ college students**.
+The game module was used by 100+ college students.
 
-**Technologies:**  
+Technologies:
+
 `WordPress` `PHP` `JavaScript` `CSS` `Python`
 
-🔗 [More about my production web projects](https://github.com/lexin0609/Web-Development-Projects)
+---
 
 ## 🎯 Career Direction
 
-My current goal is to transition my enterprise development experience into a broader **Java Backend Engineer** role.
+My goal is to expand my enterprise software development experience into broader Backend Software Engineering roles.
 
 I already have commercial experience with:
 
 - production enterprise systems;
 - backend business logic;
 - system integrations;
-- APIs;
-- large databases;
+- HTTP APIs;
+- large relational databases;
 - performance optimization;
 - concurrency-related problems;
+- production troubleshooting;
 - team development and code review.
 
-I'm now building on this foundation by studying **Java** and modern backend engineering practices.
+I'm now combining this foundation with Python and modern backend technologies such as FastAPI, PostgreSQL, automated testing, and containerization.
 
 ---
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/lexin0609
-- **LinkedIn:** https://www.linkedin.com/in/alexei-golubov-0085583ba
-- **Email:** lexin0609@gmail.com
+- GitHub: https://github.com/lexin0609
+- LinkedIn: https://www.linkedin.com/in/alexei-golubov-0085583ba
+- Email: lexin0609@gmail.com
 
 ---
 
-Open to **Java Backend / Backend Software Engineering opportunities**, including international remote positions and relocation with visa sponsorship.
+Open to Backend Software Engineering opportunities, including Python backend, API integration, international remote positions, and relocation with visa sponsorship.
